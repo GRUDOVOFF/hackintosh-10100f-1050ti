@@ -14,3 +14,6 @@ macOS Version: High Sierra(10.13)
 | MotherBoard | MSI B460M PRO-VDH<br/> |
 | GPU         | KFA2 GeForce GTX 1050 Ti 4GB GDDR5<br/> |
 | Ethernet    | Realtek 8111<br/> |
+
+## Thank's
+https://www.technopat.net/sosyal/konu/i3-10100f-icin-high-sierra-destekli-hazir-efi-dosyasi.1796110/
